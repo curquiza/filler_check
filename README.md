@@ -17,4 +17,6 @@ Default behaviour : 5 games are played, in the configuration (player 1 and playe
 `-a` : you play as player 1 AND player 2.<br>
 `-g [games_nb]` : number of games to play. Better to use with 100 or 1000 games to challenge your Filler.
 
-### Example
+#### Examples
+![Alt text](resources/test1.png)
+![Alt text](resources/test2.png)
